@@ -1,5 +1,7 @@
 🥔 Potato Disease Detection System
+
 This project is an end-to-end deep learning solution designed to identify common potato leaf diseases (Early Blight, Late Blight, and Healthy) from images. It leverages a Convolutional Neural Network (CNN) for accurate classification and provides a robust FastAPI backend for real-time inference, coupled with a simple web-based user interface.
+
 
 🌟 Features
 Deep Learning Model: A custom Convolutional Neural Network (CNN) built with TensorFlow and Keras for image classification.
