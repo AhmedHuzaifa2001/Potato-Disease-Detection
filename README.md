@@ -17,7 +17,8 @@ Web User Interface: A simple HTML/CSS/JavaScript frontend for easy image selecti
 Efficient Model Loading: Model is loaded once at API startup using FastAPI's on_event handler for optimized performance.
 
 🚀 Technologies Used
-Backend:
+
+**Backend:**
 
 Python
 
@@ -31,7 +32,7 @@ Pillow (PIL)
 
 Uvicorn (ASGI server)
 
-Frontend:
+**Frontend:**
 
 HTML5
 
